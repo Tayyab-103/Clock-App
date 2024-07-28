@@ -1,6 +1,7 @@
 // import MapFunction from "./MapFunction";
 // import Random from "./components/Random";
 
+// import Accordion from "./components/Accordion";
 import CurrentTime from "./components/CurrentTime";
 
 const App = () => {
@@ -10,6 +11,7 @@ const App = () => {
       {/* <MapFunction/> */}
       <div style={{marginTop:"250px"}}>
       <CurrentTime/>
+      {/* <Accordion/> */}
       </div>
     </div>
   );
